@@ -3,10 +3,10 @@
 
 int main()
 {
-    int numInt;
-    double numDouble; 
-    char nome[20]; 
-    char sexo;
+    int numInt; // %d
+    double numDouble; // %.2lf
+    char nome[20];  // %s
+    char sexo; // %c
 
     numInt = 19;
     numDouble = 1.70;
